@@ -1,4 +1,12 @@
 test1
+
+
 test 2 voor branch 1
 nu voeg ik ook nog wat toe in de branch
 ben erg benieuwd wat er nu gaat gebeuren met de test branch
+
+
+Dit kan allemaal
+dit is allemaal de master branche
+waar zal dit terecht komen
+ik voeg nu iets toe terwijl er bij de branch nog niets staat
